@@ -11,7 +11,7 @@ export const MY_CARD = {
   title: "이공계 학술제 포스터 홍보합니다.",
 
   // 한줄 소개
-  description: "내일부터 포스터 투표가 있으니 전원 투표 부탁드립니다.",
+  description: "내일 11시부터 15시까지 공학관에서 투표가 있습니다",
 
   // public 폴더에 넣은 이미지 파일명 (앞에 / 꼭 붙이기)
   image: "/min.png",
