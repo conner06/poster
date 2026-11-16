@@ -5,7 +5,7 @@ export const MY_CARD = {
   id: "minkyu",
 
   // 당일 자리 번호 = 카드 번호 (1 ~ 13) 입력
-  number: 0,
+  number: 6,
 
   // 포스터 제목
   title: "이공계 학술제 포스터 홍보합니다.",
