@@ -14,5 +14,5 @@ export const MY_CARD = {
   description: "내일부터 포스터 투표가 있으니 전원 투표 부탁드립니다.",
 
   // public 폴더에 넣은 이미지 파일명 (앞에 / 꼭 붙이기)
-  image: "/poster.jpg",
+  image: "/min.png",
 };
